@@ -27,7 +27,7 @@ namespace WpfApp13
         private void Btnstatus(object sender, RoutedEventArgs e)
         {
             Window3 Status = new Window3();
-            Window1 Washes = new Window1();
+            MainWashes Washes = new MainWashes();
             Washes.Show();
             Status.Close();
         }

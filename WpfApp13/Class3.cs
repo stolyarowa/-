@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace WpfApp13
 {
-    internal class Class1
+    public class Class1
     {
         public string Number { get; set; }
         public string WashStyle { get; set; }

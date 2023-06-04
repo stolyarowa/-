@@ -24,10 +24,6 @@ namespace WpfApp13
             InitializeComponent();
         }
 
-        private void InitializeComponent()
-        {
-            throw new NotImplementedException();
-        }
 
         private void activ_SelectionChanged(object sender, SelectionChangedEventArgs e)
         {
